@@ -1,0 +1,63 @@
+body {
+  background-color: hsl(185, 75%, 39%);
+}
+h4, h6 {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+}
+
+p {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: .7rem;
+  font-weight: 400;
+  color: hsl(0, 0%, 59%);
+}
+
+.background-images-top {
+  position: absolute;
+  right: 50%;
+  bottom: 25%;
+}
+
+.background-images-bottom {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+.card {
+  width: 22rem;
+  margin-top:10%;
+  border-radius: 1rem;
+}
+.card-body {
+  padding-bottom: 0;
+}
+
+.card-image {
+  border-radius: 1rem 1rem 0 0;
+  width:100%;
+  position: absolute;
+}
+
+.Victor-img {
+  border-radius: 100%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #fff;
+  position: relative;
+  margin-top:25%;
+}
+.card-body-text {
+  margin-top: 5%;
+}
+.age {
+  color: hsl(0, 0%, 59%);
+}
+
+.social-columns {
+  margin: 0 7% 0;
+  text-align: center;
+}
